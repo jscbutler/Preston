@@ -3,7 +3,7 @@ import re
 import time
 from typing import Optional, Tuple, Any, Union
 
-import requests
+    import requests
 
 from .cache import Cache
 
@@ -14,7 +14,7 @@ class Preston:
     This class is used to interface with the EVE Online "ESI" API.
 
     The __init__ method only **kwargs instead of a specific
-    listing of arguments; here's the list of useful key-values:
+    listing of arguments; here's the list of useful key-values: 
 
         version                 version of the spec to load
 
