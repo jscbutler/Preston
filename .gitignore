@@ -10,3 +10,4 @@ dist
 .pytest_cache
 htmlcov
 coverage.xml
+mkt_test.py
